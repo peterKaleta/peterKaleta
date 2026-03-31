@@ -1,23 +1,13 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="55%">
+<img align="right" src="./profile.gif" width="300" />
 
-## Peter Kaleta
-**Builder & Engineering Leader**
+## Hi! Welcome to my github!
 
 15+ years of building solutions and scaling teams across web, mobile and crypto.
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" />](https://linkedin.com/in/peterkaleta) [LinkedIn](https://linkedin.com/in/peterkaleta)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/peterkaleta)
 [![Website](https://img.shields.io/badge/-peterkaleta.com-000?&logo=Google%20Chrome&logoColor=fff)](https://peterkaleta.com)
 
-</td>
-<td valign="top" width="45%">
-
-<img src="./profile.gif" width="300" />
-
-</td>
-</tr>
-</table>
+<br clear="both" />
 
 ### Skills & Tools
 
